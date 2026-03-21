@@ -1,5 +1,8 @@
 <h1 align="center">ialbloushi</h1>
-
+![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square)
+![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square)
+![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square)
 <p align="center">
 Cybersecurity Enthusiast | eJPTv2 Certified | Practicing CCNA, Security+, AI
 </p>
