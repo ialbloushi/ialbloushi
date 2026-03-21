@@ -1,57 +1,37 @@
-<h1 align="center">ialbloushi</h1>
+<!-- ============================= -->
+<!--       GitHub Profile         -->
+<!-- ============================= -->
 
+<!-- Name -->
 <p align="center">
-  <!-- ضع ملف GIF في مجلد assets باسم tech.gif -->
-  <img src="./assets/tech.gif" width="150"/>
+  <img src="./assets/name.png" width="300"/>
 </p>
 
+<!-- Badges -->
 <p align="center">
-  Cybersecurity Enthusiast | eJPTv2 Certified | Practicing CCNA, Security+, AI
-</p>
-
-<p align="center">
-  <!-- Badges رسمية -->
-  ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square&logo=hackthebox&logoColor=white)
-  ![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square&logo=cisco&logoColor=white)
-  ![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square&logo=keybase&logoColor=white)
-  ![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square&logo=python&logoColor=white)
+  <img src="./assets/ejpt.png" width="100"/>
+  <img src="./assets/ccna.png" width="100"/>
+  <img src="./assets/sec.png" width="100"/>
+  <img src="./assets/ai.png" width="100"/>
 </p>
 
 ---
 
 ### 🧠 About Me
-I am a **eJPTv2 certified cybersecurity professional** with practical experience applying skills in **CCNA, Security+, and AI**.  
-I focus on hands-on exercises, lab simulations, and small-scale projects to continuously strengthen my technical expertise.
+I am **eJPTv2 certified** and currently building practical knowledge in **CCNA, Security+, and AI**.  
+Focused on labs, hands-on projects, and real-world exercises.
 
 ---
 
-### 🛠️ Skills & Tools
-- **Penetration Testing** (eJPTv2)  
-- **Networking Fundamentals** (CCNA knowledge and labs)  
-- **Security Fundamentals** (Security+ concepts applied)  
-- **Python / Bash Scripting**  
-- **Artificial Intelligence Basics**
-
----
-
-### 📂 Selected Projects
-- **`ejpt-labs`** – Hands-on labs, notes, and scripts from eJPTv2  
-- **`basic-port-scanner`** – Practical Python project for port scanning  
-- **`practice-notes`** – Organized notes and exercises from CCNA, Security+, and AI
-
----
-
-### 🎯 Professional Goals
-- Deepen networking and cybersecurity expertise  
-- Build advanced penetration testing capabilities  
-- Apply technical skills in practical, real-world scenarios
+### 🛠 Skills
+- Penetration Testing (eJPTv2)
+- Networking Fundamentals (Practicing CCNA)
+- Security Fundamentals (Practicing Security+)
+- AI Basics
+- Python / Bash scripting
 
 ---
 
 ### 🌐 Connect
-- [![Discord](https://img.shields.io/badge/Discord-whocss-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/whocss)
-- [![Email](https://img.shields.io/badge/Email-ialbloushi@proton.me-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ialbloushi@proton.me)
-
----
-
-> "Excellence in cybersecurity comes from practice, discipline, and continuous learning."
+- Email: [ialbloushi@proton.me](mailto:ialbloushi@proton.me)  
+- Discord: [whocss](https://discord.com/users/whocss)
