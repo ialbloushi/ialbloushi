@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/name.png" width="700"/>
-</p>
+<h1 align="center" style="font-size: 700px;">ialbloushi</h1>
 
 <p align="center">
   &nbsp;&nbsp;
@@ -56,6 +54,13 @@ I approach my goals with curiosity, dedication, and passion, and I focus on turn
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-whocss-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ialbloushi&show_icons=true&theme=dark" />
 </p>
 
 ---
