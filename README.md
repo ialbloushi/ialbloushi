@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square)
-  ![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square)
-  ![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square)
-  ![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square)
+  ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square&logo=hackthebox)
+  ![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square&logo=cisco)
+  ![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square&logo=compass)
+  ![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square&logo=python)
 </p>
 
 ---
