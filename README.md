@@ -1,7 +1,8 @@
 <h1 align="center">ialbloushi</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
+  <!-- ضع ملف GIF في مجلد assets باسم tech.gif -->
+  <img src="./assets/tech.gif" width="150"/>
 </p>
 
 <p align="center">
@@ -9,10 +10,11 @@
 </p>
 
 <p align="center">
-  ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square&logo=hackthebox)
-  ![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square&logo=cisco)
-  ![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square&logo=compass)
-  ![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square&logo=python)
+  <!-- Badges رسمية -->
+  ![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-green?style=flat-square&logo=hackthebox&logoColor=white)
+  ![CCNA](https://img.shields.io/badge/CCNA-Practicing-orange?style=flat-square&logo=cisco&logoColor=white)
+  ![Security+](https://img.shields.io/badge/Security+-Practicing-red?style=flat-square&logo=keybase&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI-Practicing-blue?style=flat-square&logo=python&logoColor=white)
 </p>
 
 ---
@@ -47,8 +49,8 @@ I focus on hands-on exercises, lab simulations, and small-scale projects to cont
 ---
 
 ### 🌐 Connect
-- [![Discord](https://img.shields.io/badge/Discord-whocss-7289da?style=flat-square&logo=discord)](https://discord.com/users/whocss)  
-- [![Email](https://img.shields.io/badge/Email-ialbloushi@proton.me-blue?style=flat-square&logo=gmail)](mailto:ialbloushi@proton.me)
+- [![Discord](https://img.shields.io/badge/Discord-whocss-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/whocss)
+- [![Email](https://img.shields.io/badge/Email-ialbloushi@proton.me-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ialbloushi@proton.me)
 
 ---
 
