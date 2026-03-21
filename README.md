@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">ialbloushi</h1>
 
-<!--
-**ialbloushi/ialbloushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Cybersecurity Enthusiast | eJPTv2 Certified | Practicing CCNA, Security+, AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I am a **eJPTv2 certified cybersecurity professional** with practical experience applying skills in **CCNA, Security+, and AI**.  
+I focus on hands-on exercises, lab simulations, and small-scale projects to continuously strengthen my technical expertise.
+
+---
+
+### 🛠️ Skills & Tools
+- **Penetration Testing** (eJPTv2)  
+- **Networking Fundamentals** (CCNA knowledge and labs)  
+- **Security Fundamentals** (Security+ concepts applied)  
+- **Python / Bash Scripting**  
+- **Artificial Intelligence Basics**
+
+---
+
+### 📂 Selected Projects
+- **`ejpt-labs`** – Hands-on labs, notes, and scripts from eJPTv2  
+- **`basic-port-scanner`** – Practical Python project for port scanning  
+- **`practice-notes`** – Organized notes and exercises from CCNA, Security+, and AI
+
+---
+
+### 🎯 Professional Goals
+- Deepen networking and cybersecurity expertise  
+- Build advanced penetration testing capabilities  
+- Apply technical skills in practical, real-world scenarios
+
+---
+
+### 🌐 Connect
+- **Discord:** whocss  
+- **Email:** ialbloushi@proton.me
+
+---
+
+> "Excellence in cybersecurity comes from practice, discipline, and continuous learning."
