@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/name.png" width="520"/>
+  <img src="./assets/name.png" width="700"/>
 </p>
 
 <p align="center">
   &nbsp;&nbsp;
-  <img src="./assets/ejpt.png" width="140"/>
+  <img src="./assets/ejpt.png" width="180"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ccna.png" width="140"/>
+  <img src="./assets/ccna.png" width="180"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/sec.png" width="140"/>
+  <img src="./assets/sec.png" width="180"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ai.png" width="140"/>
+  <img src="./assets/ai.png" width="180"/>
   &nbsp;&nbsp;
 </p>
 
