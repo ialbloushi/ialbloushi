@@ -1,15 +1,9 @@
-<h1 align="center" style="font-size: 700px;">ialbloushi</h1>
+<p align="center">
+  <img src="./assets/name1.png" width="400"/>
+</p>
 
 <p align="center">
-  &nbsp;&nbsp;
-  <img src="./assets/ejpt.png" width="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ccna.png" width="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/sec.png" width="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ai.png" width="180"/>
-  &nbsp;&nbsp;
+  <img src="./assets/icon2.png" width="600"/>
 </p>
 
 <p align="center">
@@ -58,7 +52,6 @@ I approach my goals with curiosity, dedication, and passion, and I focus on turn
 
 ---
 
-<!-- Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ialbloushi&show_icons=true&theme=dark" />
 </p>
