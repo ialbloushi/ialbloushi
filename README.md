@@ -18,7 +18,7 @@ I am a **Cybersecurity enthusiast** with hands-on experience in labs and practic
 
 I hold **eJPTv2** and **ICCA certifications**, and I am currently focusing on **SOC operations, threat detection, and blue team practices**.
 
-I have completed **CCNA training**, building a solid foundation in networking, and I continuously work on improving my skills through platforms like TryHackMe.
+I have completed CCNA training at a networking institute, where I gained hands-on experience configuring and working with routers and switches. This practical experience helped me build a strong foundation in networking, and I continue to improve my skills through continuous learning and practice.
 
 My goal is to apply my knowledge in real-world environments and grow as a **Security Analyst**.
 
