@@ -7,34 +7,46 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast &nbsp;|&nbsp; eJPTv2 Certified &nbsp;|&nbsp; Knowledge in CCNA, Security+, AI</b>
+  <b>Cybersecurity Enthusiast &nbsp;|&nbsp; eJPTv2 Certified &nbsp;|&nbsp; ICCA Certified &nbsp;|&nbsp; SOC Analyst Track</b>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I am **eJPTv2 certified** and have actively gained knowledge in **CCNA, Security+, and AI**.  
-I love learning every day and exploring new skills, because I believe that **knowledge is the key to building a better future**.  
-I approach my goals with curiosity, dedication, and passion, and I focus on turning what I learn into practical experience and meaningful projects.
+I am a **Cybersecurity enthusiast** with hands-on experience in labs and practical environments.
+
+I hold **eJPTv2** and **ICCA certifications**, and I am currently focusing on **SOC operations, threat detection, and blue team practices**.
+
+I have completed **CCNA training**, building a solid foundation in networking, and I continuously work on improving my skills through platforms like TryHackMe.
+
+My goal is to apply my knowledge in real-world environments and grow as a **Security Analyst**.
 
 ---
 
 ### 🛠 Skills & Tools
 
-- Penetration Testing Basics (eJPTv2)
-- Networking Fundamentals (CCNA knowledge)
-- Security Fundamentals (Security+ knowledge)
-- Python / Bash scripting
-- AI Concepts
+- Security Monitoring & Alert Analysis  
+- Incident Response Fundamentals  
+- Networking Basics (CCNA Training)  
+- Penetration Testing Fundamentals (eJPTv2)  
+- Python & Bash (Basic)  
+- Blue Team Fundamentals  
 
 ---
 
-### 🎯 Goals
+### 📜 Certifications
 
-- Expand my networking and cybersecurity expertise
-- Apply my knowledge to real-world challenges
-- Keep learning, growing, and building projects that matter
+- eJPTv2 – INE  
+- ICCA – INE  
+
+---
+
+### 🎯 Current Focus
+
+- SOC Operations  
+- SIEM & Log Analysis  
+- Threat Detection  
 
 ---
 
@@ -59,5 +71,5 @@ I approach my goals with curiosity, dedication, and passion, and I focus on turn
 ---
 
 <p align="center">
-  <i>"Every day I learn, grow, and move a little closer to my goals."</i>
+  <i>"Focused on learning, building, and becoming a better security professional every day."</i>
 </p>
